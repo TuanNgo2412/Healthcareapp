@@ -1,0 +1,140 @@
+{
+    "homeheader": {
+        "specialty": "Specialty",
+        "searchdoctor": "Find a doctor by Specialty",
+        "health-facility": "Health facilities",
+        "select-room": "Choose hospital clinic",
+        "doctor": "Doctor",
+        "select-doctor": "Choose a good doctor",
+        "fee": "Checkup package",
+        "check-health": "General health check",
+        "support": "Support",
+        "welcome": "Welcome, "
+    },
+    "banner": {
+        "title-1": "MEDICAL PLATFORM",
+        "title-2": "COMPREHENSIVE HEALTH CARE",
+        "child-1": "Specialized examination",
+        "child-2": "Remote examination",
+        "child-3": "General examination",
+        "child-4": "Medical test",
+        "child-5": "Mental health",
+        "child-6": "Dental examination",
+        "place-holder": "Find a medical specialty"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "User",
+            "manage-doctor": "Doctor manage",
+            "manage-admin": "Admin manage",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD Redux",
+            "clinic": "Clinic",
+            "manage-clinic": "Clinic manage",
+            "specialty": "Specialty",
+            "manage-specialty": "Specialty manage",
+            "handbook": "Handbook",
+            "manage-handbook": "Handbook manage"
+        },
+        "doctor": {
+            "manage-schedule": "Manage Doctor's schedule",
+            "manage-patient": "Manage Doctor's patient"
+        }
+    },
+    "manage-user": {
+        "add": "Add a new user",
+        "email": "Email",
+        "password": "Password",
+        "first-name": "First name",
+        "last-name": "Last name",
+        "phone-number": "Phone number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "role": "Role",
+        "image": "Avatar",
+        "save": "Save",
+        "edit": "Save changes"
+    },
+    "homepage": {
+        "out-standing-doctor": "Out-standing Doctors",
+        "more-info": "More",
+        "specialty-popular": "Popular specialty",
+        "clinic": "Outstanding medical facility",
+        "handbook": "Handbook",
+        "see-all": "See all newfeeds",
+        "about-doctor": "Something about the doctor ^^!"
+    },
+    "manage-schedule": {
+        "title": "Manage doctor's examination plan",
+        "choose-doctor": "Choose doctor",
+        "choose-date": "Choose date",
+        "save": "Save"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Examination schedule",
+            "no-schedule": "The doctor has no appointment scheduled for today, please choose another date",
+            "choose": "Choose ",
+            "book-free": " and book (free)"
+        },
+        "extra-infor-doctor": {
+            "text-address": "Address of examination",
+            "price": "Examination price: ",
+            "detail": "More details",
+            "payment": "Patients can pay in the form of: ",
+            "hide-price": "Hide price list"
+        },
+        "booking-modal": {
+            "title": "Information to book a medical appointment",
+            "fullName": "Full name",
+            "phoneNumber": "Số điện thoại",
+            "email": "Email address",
+            "address": "Contact address",
+            "reason": "Reason for examination",
+            "birthday": "Birthday",
+            "gender": "Gender",
+            "btnConfirm": "Confirm",
+            "btnCancel": "Cancel",
+            "priceBooking": "Free booking",
+            "price": "Examination price: "
+        }
+    },
+    "admin": {
+        "manage-doctor": {
+            "title": "Create more information doctors",
+            "select-doctor": "Choose a doctor: ",
+            "intro": "Introduction information",
+            "add": "Create information",
+            "save": "Save information",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "nameClinic": "Clinic's name",
+            "addressClinic": "Clinic's address",
+            "note": "Note",
+            "specialty": "Specialty",
+            "select-clinic": "Clinic"
+        }
+    },
+    "specialty": {
+        "title-1": "Musculoskeletal",
+        "title-1": "Nerve",
+        "title-1": "Digest",
+        "title-1": "cardiology",
+        "title-1": "Ear, nose and throat",
+        "title-1": "Spine",
+        "title-1": "traditional medicine",
+        "title-1": "Acupuncture"
+    },
+    "clinic": {
+        "title-1": "Viet Duc Friendship Hospital",
+        "title-1": "Cho Ray Hospital",
+        "title-1": "Clinic of University Hospital of Medicine and Pharmacy 1",
+        "title-1": "K Hospital - Phan Chu Trinh Campus",
+        "title-1": "Saigon Healthcare General Clinic",
+        "title-1": "Hanoi Hospital of Andrology and Infertility",
+        "title-1": "An Viet General Hospital",
+        "title-1": "Central Hospital of Traditional Medicine"
+    }
+}
